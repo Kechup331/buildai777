@@ -1,0 +1,75 @@
+[
+  {
+    "norm": "DIN EN 806",
+    "beschreibung": "Technische Regeln für Trinkwasser-Installationen – Planung, Ausführung, Wartung.",
+    "details": {
+      "werkstoffe": "Nur zugelassene Materialien für Trinkwasser (z. B. Edelstahl, Kupfer, PEX).",
+      "druckprüfung": "Hydraulisch mit Wasser, mind. 1 Stunde, 1,5-facher Betriebsdruck.",
+      "verbindungstechniken": "Pressen, Löten, Schrauben – abhängig von Werkstoff.",
+      "fließrichtung": "Installation immer mit Durchströmung aller Teile planen.",
+      "hinweis": "Regelmäßige Wartung und Kontrolle gemäß Teil 5 verpflichtend."
+    }
+  },
+  {
+    "norm": "DIN 1988",
+    "beschreibung": "Trinkwasserinstallation – Ergänzende nationale Anforderungen zur EN 806.",
+    "details": {
+      "leitungslängen": "Warmwasserleitungen möglichst kurz halten (< 3 Liter Inhalt).",
+      "zirkulation": "Bei langen Warmwasserleitungen zur Vermeidung von Stagnation notwendig.",
+      "dimensionierung": "Nach gleichzeitigem Wasserbedarf (nicht nach Einzelzapfstellen).",
+      "schutz": "Vor Erwärmung und Verkeimung durch Dämmung und Leitungsführung.",
+      "hinweis": "Zusammen mit EN 806 bindend für Deutschland."
+    }
+  },
+  {
+    "norm": "DIN 1986",
+    "beschreibung": "Entwässerungsanlagen für Gebäude und Grundstücke.",
+    "details": {
+      "gefälle": "Mind. 1–2 % bei Freispiegelleitungen (Abwasserleitungen).",
+      "belüftung": "Alle Leitungen müssen gegen Unterdruck belüftet werden (z. B. Dachlüftung).",
+      "regenwasser": "Darf getrennt oder gemeinsam mit Schmutzwasser abgeleitet werden.",
+      "revisionsöffnungen": "In zugänglichen Bereichen einzuplanen.",
+      "hinweis": "Maßgeblich für Dimensionierung und Planung der Grundleitungen."
+    }
+  },
+  {
+    "norm": "DIN 4701",
+    "beschreibung": "Berechnung des Heizwärmebedarfs – Heizlast nach Raum, Gebäude und Nutzung.",
+    "details": {
+      "heizlast": "Ermittlung über Transmissions- und Lüftungswärmeverluste.",
+      "normaußentemperatur": "Je nach Klimaregion (z. B. -12 °C bis -16 °C).",
+      "innentemperatur": "Standardwerte z. B. 20 °C für Wohnräume.",
+      "wärmeabgabe": "Dimensionierung der Heizflächen anhand der berechneten Heizlast.",
+      "hinweis": "Wichtig für energieeffiziente Auslegung von Heizsystemen."
+    }
+  },
+  {
+    "norm": "DIN 18017",
+    "beschreibung": "Lüftung innenliegender Bäder und Toiletten ohne Fenster.",
+    "details": {
+      "lüftung": "Mechanische Lüftung zwingend erforderlich bei fensterlosen Räumen.",
+      "luftvolumenstrom": "Mind. 40 m³/h für WC, 60 m³/h für Bad mit Dusche/Wanne.",
+      "nachlaufzeit": "Mind. 30 Sekunden bis 10 Minuten, je nach Nutzung.",
+      "schalldämpfung": "Schallübertragung zwischen Räumen verhindern.",
+      "hinweis": "Besonders relevant im Geschosswohnungsbau."
+    }
+  },
+  {
+    "norm": "TRGI",
+    "beschreibung": "Technische Regeln für Gasinstallationen – Planung, Ausführung, Betrieb.",
+    "details": {
+      "leckmengenprüfung": "Dichtheitsprüfung nach Einbau und alle 12 Jahre wiederkehrend.",
+      "lüftung": "Gasführende Räume müssen belüftbar sein (z. B. durch Fenster, Lüftungsgitter).",
+      "absperreinrichtungen": "Vor jedem Gasgerät Pflicht.",
+      "leitungsmaterialien": "Stahl, Kupfer, Verbundrohr – nur zugelassene Systeme verwenden.",
+      "hinweis": "Regelwerk des DVGW, verpflichtend in DE für Gasinstallationen."
+    }
+  },
+  {
+    "norm": "TRWI",
+    "beschreibung": "Technische Regeln für Wasserinstallationen (historisch, ersetzt durch DIN 1988/EN 806).",
+    "details": {
+      "hinweis": "Nur noch in Altbauten relevant. Heute durch DIN EN 806 und DIN 1988 ersetzt."
+    }
+  }
+]
