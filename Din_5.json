@@ -1,0 +1,35 @@
+[
+  {
+    "norm": "DIN 1052",
+    "beschreibung": "Holzbau – Bemessung und Konstruktion tragender Bauteile aus Holz.",
+    "details": {
+      "baustoffe": "Brettschichtholz, Vollholz, Holzwerkstoffe (z. B. OSB, Sperrholz).",
+      "verbindungen": "Zug-, Druck-, Biege-, Schubverbindungen mit Nägeln, Bolzen, Schrauben oder Dübeln.",
+      "feuchteklassen": "Einteilung in Nutzungsklassen (Innenraum trocken, Feuchtbereich, Außen).",
+      "tragwerksnachweis": "Berechnung mit Teilsicherheitsbeiwerten nach Lastfällen.",
+      "hinweis": "Ersetzt durch DIN EN 1995 (Eurocode 5) in Verbindung mit nationalem Anhang."
+    }
+  },
+  {
+    "norm": "DIN 18183",
+    "beschreibung": "Gipskartonplatten – Anforderungen, Maße, Einsatzbereiche für Trockenbau.",
+    "details": {
+      "plattenarten": "GKB = Standard, GKF = Feuerhemmend, GKFI = Feuchte- & Feuerhemmend.",
+      "einsatzbereiche": "Wände, Decken, Vorsatzschalen, Installationswände.",
+      "befestigung": "Schrauben auf Metall- oder Holzunterkonstruktion, max. 25 cm Abstand.",
+      "fugen": "Verspachteln mit Bewehrungsstreifen, je nach Oberflächenklasse (Q1–Q4).",
+      "hinweis": "Tragende Konstruktionen nur mit Nachweis nach DIN EN 1995."
+    }
+  },
+  {
+    "norm": "DIN 4103",
+    "beschreibung": "Nichttragende innere Trennwände – Bauarten und Anforderungen.",
+    "details": {
+      "wandtypen": "Gipskarton, Leichtbauwand, Glastrennwand, Trennwände aus Holzwerkstoffen.",
+      "dicke": "Standard-Leichtbauwände 75–100 mm inklusive Beplankung.",
+      "schallschutz": "Schalldämmmaß ≥ 30 dB je nach Wandaufbau möglich.",
+      "befestigung": "Montage auf Metall- oder Holzständerprofilen, ggf. mit Dämmung gefüllt.",
+      "hinweis": "Nur für nichttragende, innenliegende Trennwände – keine statischen Aufgaben."
+    }
+  }
+]
