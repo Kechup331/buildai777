@@ -1,0 +1,24 @@
+[
+  {
+    "verordnung": "ArbStättV",
+    "titel": "Arbeitsstättenverordnung",
+    "details": {
+      "ziel": "Schutz der Beschäftigten beim Einrichten und Betreiben von Arbeitsstätten.",
+      "anforderungen": "Licht, Raumklima, Fluchtwege, Toiletten, Pausenräume.",
+      "bewertung": "Jede Baustelle oder Werkstatt muss einer Gefährdungsbeurteilung unterzogen werden.",
+      "besonderheiten": "Verweist auf ASR als verbindliche Auslegungshilfe.",
+      "buildai_hinweis": "Wenn Bauprojekt dauerhaft genutzt oder als Werkstatt dient → KI prüft Einhaltung der ArbStättV."
+    }
+  },
+  {
+    "verordnung": "BetrSichV",
+    "titel": "Betriebssicherheitsverordnung",
+    "details": {
+      "ziel": "Sicherer Betrieb von Arbeitsmitteln wie Maschinen, Leitern, Druckbehältern usw.",
+      "pflichten": "Arbeitgeber muss Gefährdungen ermitteln und sichere Nutzung sicherstellen.",
+      "prüfung": "Arbeitsmittel müssen regelmäßig geprüft und dokumentiert werden.",
+      "lebenszyklus": "Gilt von Beschaffung über Nutzung bis Entsorgung.",
+      "buildai_hinweis": "Wenn Maschinen oder Werkzeuge verwendet werden → KI erinnert an Prüfungspflichten nach BetrSichV."
+    }
+  }
+]
