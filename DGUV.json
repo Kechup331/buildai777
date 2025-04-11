@@ -1,0 +1,72 @@
+[
+  {
+    "vorschrift": "DGUV Vorschrift 1",
+    "titel": "Grundsätze der Prävention",
+    "details": {
+      "pflichten": "Gefährdungsbeurteilung, Schutzmaßnahmen, Unterweisung der Beschäftigten.",
+      "psa": "Bereitstellung und Nutzung von Persönlicher Schutzausrüstung (PSA) ist Pflicht.",
+      "anwendung": "Gilt für alle Betriebe mit Beschäftigten – unabhängig von Branche oder Größe.",
+      "buildai_hinweis": "Bei Arbeiten mit Gefährdung – KI erinnert an Unterweisung und PSA nach DGUV V1."
+    }
+  },
+  {
+    "vorschrift": "DGUV Vorschrift 2",
+    "titel": "Betriebsärzte und Fachkräfte für Arbeitssicherheit",
+    "details": {
+      "verpflichtung": "Arbeitgeber müssen eine Fachkraft für Arbeitssicherheit und einen Betriebsarzt bestellen.",
+      "einsatz": "Ab dem ersten Beschäftigten notwendig.",
+      "betreuung": "Regelmäßige sicherheitstechnische Betreuung erforderlich.",
+      "buildai_hinweis": "Bei gewerblichen Nutzern mit Personal → Hinweis auf Pflicht zur Bestellung nach DGUV V2."
+    }
+  },
+  {
+    "vorschrift": "DGUV Vorschrift 3",
+    "titel": "Elektrische Anlagen und Betriebsmittel",
+    "details": {
+      "prüfung": "Alle elektrischen Geräte müssen vor Nutzung und regelmäßig geprüft werden.",
+      "verantwortung": "Nur Elektrofachkräfte dürfen die Prüfung durchführen.",
+      "messwerte": "Isolationswiderstand, Schutzleiterwiderstand etc.",
+      "buildai_hinweis": "Bei Stromarbeiten oder Gerätenutzung → KI prüft, ob DGUV V3 eingehalten wird."
+    }
+  },
+  {
+    "vorschrift": "DGUV Vorschrift 38",
+    "titel": "Bauarbeiten (früher BGV C22)",
+    "details": {
+      "inhalt": "Regelt Sicherheit auf Baustellen: Absturzschutz, Zugänge, Maschinen, Erste Hilfe.",
+      "einsatz": "Gilt für alle Bauarbeiten mit erhöhtem Gefährdungspotenzial.",
+      "koordination": "Verantwortung des Bauleiters/Unternehmers.",
+      "buildai_hinweis": "Wenn Projekt als Baustelle erkannt wird → KI weist auf zentrale Maßnahmen aus DGUV V38 hin."
+    }
+  },
+  {
+    "vorschrift": "DGUV Regel 112-189",
+    "titel": "PSA gegen Absturz",
+    "details": {
+      "einsatzbereiche": "Dach, Fassade, Hebebühne, Gerüst, Baugrube – überall da, wo Absturz möglich ist.",
+      "komponenten": "Auffanggurt, Verbindungsmittel, Anschlagpunkt.",
+      "prüfung": "Jährlich durch fachkundige Person.",
+      "buildai_hinweis": "Bei Höhenarbeit → KI empfiehlt passendes PSA-System mit Verweis auf DGUV 112-189."
+    }
+  },
+  {
+    "vorschrift": "DGUV Information 203-006",
+    "titel": "Arbeiten in engen Räumen und Behältern",
+    "details": {
+      "gefahren": "Erstickung, Explosion, Gasvergiftung.",
+      "schutzmaßnahmen": "Lüftung, Gaswarnung, Rettungsplan, Überwachung.",
+      "besonderheiten": "Nur mit spezieller Einweisung und PSA erlaubt.",
+      "buildai_hinweis": "Wenn Arbeiten in Schächten, Tanks etc. erkannt → KI warnt und verweist auf DGUV 203-006."
+    }
+  },
+  {
+    "vorschrift": "DGUV Information 208-016",
+    "titel": "Leitern und Tritte",
+    "details": {
+      "einsatzregeln": "Nur kurzzeitig und bei geringem Risiko, niemals dauerhaft als Arbeitsplatz.",
+      "sichtprüfung": "Vor jedem Einsatz auf Beschädigung prüfen.",
+      "alternativen": "Bei längerer Nutzung → Podest oder Gerüst bevorzugen.",
+      "buildai_hinweis": "Bei Einsatz von Leitern → KI fragt nach Zustand, Standfestigkeit und Einsatzdauer (DGUV 208-016)."
+    }
+  }
+]
