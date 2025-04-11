@@ -1,0 +1,52 @@
+[
+  {
+    "regel": "ASR A1.2",
+    "titel": "Raumabmessungen und Bewegungsflächen",
+    "details": {
+      "mindestraumhöhe": "In der Regel mindestens 2,50 m – abhängig von Nutzung.",
+      "bewegungsfläche": "Mind. 1,50 m² freier Bewegungsraum je Arbeitsplatz.",
+      "besonderheiten": "Größere Flächen bei regelmäßigem Heben, Drehen oder Transport.",
+      "buildai_hinweis": "Bei Raumplanung → KI prüft automatisch Bewegungsflächen nach ASR A1.2."
+    }
+  },
+  {
+    "regel": "ASR A1.3",
+    "titel": "Sicherheits- und Gesundheitsschutzkennzeichnung",
+    "details": {
+      "kennzeichen": "Verwendung von ISO-gerechten Symbolen (z. B. Notausgang, Feuerlöscher, Verbandskasten).",
+      "anbringung": "Sichtbar, dauerhaft, im Blickfeld.",
+      "kontrast": "Ausreichender Farbkontrast zur Umgebung.",
+      "buildai_hinweis": "Wenn Baustelle → KI fragt: Sind Sicherheitskennzeichen vorhanden und gut sichtbar?"
+    }
+  },
+  {
+    "regel": "ASR A2.2",
+    "titel": "Maßnahmen gegen Brände",
+    "details": {
+      "löschmittel": "Mind. 6 Löschmitteleinheiten pro 400 m² Grundfläche.",
+      "löschwege": "Darf nicht mehr als 20 m entfernt sein.",
+      "unterweisung": "Mitarbeiter müssen in Brandverhalten und Löschtechnik unterwiesen sein.",
+      "buildai_hinweis": "Wenn Arbeiten mit Hitze, Strom oder brennbaren Stoffen → KI erinnert an ASR A2.2 + Feuerlöscher."
+    }
+  },
+  {
+    "regel": "ASR A3.4/3",
+    "titel": "Beleuchtung von Arbeitsplätzen",
+    "details": {
+      "beleuchtungsstärke": "Mind. 300 Lux für normale Tätigkeiten, 500 Lux bei Präzisionsarbeit.",
+      "tageslicht": "Sofern möglich mitnutzen, z. B. über Fenster, Lichtbänder.",
+      "blendfreiheit": "Direkte Blendung durch Lampen vermeiden.",
+      "buildai_hinweis": "Bei Innenausbau oder Werkstattarbeit → KI fragt nach Lichtverhältnissen gemäß ASR A3.4/3."
+    }
+  },
+  {
+    "regel": "ASR A5.2",
+    "titel": "Baustellen – Verkehrswege, Zugänge, Absicherung",
+    "details": {
+      "zugänge": "Rutschfest, trittsicher, ausreichend breit (mind. 0,80 m).",
+      "verbindung": "Alle Bereiche sicher erreichbar (z. B. Laufstege, Treppen).",
+      "sicherung": "Absturzsicherungen bei > 1 m Höhe Pflicht.",
+      "buildai_hinweis": "Wenn Baustelle erkannt → KI prüft automatisch Verkehrswege nach ASR A5.2."
+    }
+  }
+]
