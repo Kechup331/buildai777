@@ -1,0 +1,57 @@
+[
+  {
+    "projekt": "Bad sanieren",
+    "din_normen": ["DIN 1986", "DIN 1988", "DIN EN 806", "DIN 18534", "DIN 4102"],
+    "vorschriften": ["ArbStättV", "BetrSichV", "DGUV Vorschrift 1", "ASR A2.2"],
+    "hinweise": [
+      "Achte auf Feuchtraumabdichtung nach DIN 18534.",
+      "Alle Warmwasserleitungen gemäß DIN 1988 mit Zirkulation oder Dämmung planen.",
+      "Brandgefahr bei Verwendung elektrischer Geräte – ASR A2.2 beachten.",
+      "Sturzgefahr bei Arbeiten in Dusche/Badewanne – PSA oder Helfer nutzen."
+    ]
+  },
+  {
+    "projekt": "Dach decken",
+    "din_normen": ["DIN 18338", "DIN 18531", "DIN 18336", "DIN EN 1991", "DIN EN 1995"],
+    "vorschriften": ["DGUV Vorschrift 38", "DGUV Regel 112-189", "TRBS 2121 Teil 1"],
+    "hinweise": [
+      "Absturzsicherung nach DGUV 112-189 ist Pflicht ab 2 m Höhe.",
+      "Dachneigung und Windsogzonen laut DIN 18338 beachten.",
+      "Bitumenbahnen nur mit kontrolliertem Flämm-Einsatz verwenden.",
+      "Prüfe Witterung – nasses Dach = Absturzgefahr!"
+    ]
+  },
+  {
+    "projekt": "Elektroinstallation im Neubau",
+    "din_normen": ["DIN 18015", "VDE 0100", "DIN 18382", "DIN EN 50174"],
+    "vorschriften": ["DGUV Vorschrift 3", "TRBS 1201", "BetrSichV"],
+    "hinweise": [
+      "Alle Betriebsmittel müssen VDE-geprüft und dokumentiert sein.",
+      "Verlegezonen für Leitungen nach DIN 18015 unbedingt einhalten.",
+      "Sicherungskasten darf nur von Elektrofachkraft installiert werden.",
+      "FI-Schutzschalter für alle Steckdosenstromkreise verpflichtend."
+    ]
+  },
+  {
+    "projekt": "Innenwand im Trockenbau erstellen",
+    "din_normen": ["DIN 18183", "DIN 4103", "DIN EN 13964"],
+    "vorschriften": ["ArbStättV", "TRBS 1111", "ASR A1.2"],
+    "hinweise": [
+      "Verwendung feuerhemmender GKF-Platten je nach Nutzung notwendig.",
+      "Wandhöhe, Dicke und Schallschutzklasse gemäß DIN 4103 planen.",
+      "Bewegungsflächen in kleinen Räumen gemäß ASR A1.2 berücksichtigen.",
+      "Gefährdungsbeurteilung vor Montage mit Schrauber erforderlich."
+    ]
+  },
+  {
+    "projekt": "Pflasterfläche erstellen (Hof, Einfahrt)",
+    "din_normen": ["DIN 18318", "DIN 18300", "DIN 18195"],
+    "vorschriften": ["DGUV Vorschrift 1", "DGUV Vorschrift 38", "TRBS 1111"],
+    "hinweise": [
+      "Verdichtungsgrad des Unterbaus gemäß DIN 18300 sicherstellen.",
+      "Gefälle von mind. 2 % für Entwässerung einplanen.",
+      "Stolper- und Rutschgefahr bei Verlegung beachten.",
+      "Körperbelastung bei Steinverlegung – Hilfsmittel nutzen."
+    ]
+  }
+]
