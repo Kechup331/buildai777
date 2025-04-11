@@ -1,0 +1,46 @@
+[
+  {
+    "norm": "DIN 277",
+    "beschreibung": "Grundflächen und Rauminhalte von Bauwerken – Flächenberechnung im Hochbau.",
+    "details": {
+      "flächenarten": "Bruttogrundfläche (BGF), Nettogrundfläche (NGF), Konstruktionsfläche (KGF).",
+      "nutzungseinheiten": "Flächen aufgeteilt nach Nutzung (z. B. Wohnen, Technik, Verkehr).",
+      "messweise": "Gemessen von Rohbaumaß zu Rohbaumaß.",
+      "anwendung": "Kostenschätzung, Mietberechnung, Baugenehmigung.",
+      "hinweis": "Nicht zu verwechseln mit Wohnflächenberechnung nach DIN 283 oder WoFlV."
+    }
+  },
+  {
+    "norm": "DIN 283",
+    "beschreibung": "Wohnflächenberechnung – Vorgänger der aktuellen Wohnflächenverordnung (WoFlV).",
+    "details": {
+      "räume": "Wohnfläche umfasst alle Räume ausschließlich Nutzräume wie Keller, Speicher etc.",
+      "schrägen": "Unter 1 m = 0 %, 1–2 m = 50 %, über 2 m = 100 % angerechnet.",
+      "balkone": "In der Regel zu 25 % angerechnet.",
+      "messweise": "Gemessen von fertiger Wand zu fertiger Wand.",
+      "hinweis": "Wird in Altverträgen noch verwendet, aber ersetzt durch WoFlV."
+    }
+  },
+  {
+    "norm": "DIN 276",
+    "beschreibung": "Kosten im Bauwesen – Gliederung von Baukosten in Kostengruppen.",
+    "details": {
+      "hauptgruppen": "KG 100 = Grundstück, KG 200 = Herrichten, KG 300 = Bauwerk-Baukonstruktion usw.",
+      "planung": "Dient der Kostenermittlung in Planungsphasen (LPH 2–6 nach HOAI).",
+      "detaillierung": "Bis auf dreistellige Ebene möglich (z. B. KG 331 = Außenwände).",
+      "verwendung": "Unverzichtbar für Ausschreibungen und Baukostencontrolling.",
+      "hinweis": "Standard in Deutschland bei öffentlichem und privatem Bauen."
+    }
+  },
+  {
+    "norm": "DIN 18299",
+    "beschreibung": "Allgemeine Regelungen für Bauleistungen jeder Art – Teil der VOB/C.",
+    "details": {
+      "leistungsbeschreibung": "Regelt Struktur und Inhalte von Ausschreibungstexten.",
+      "begriffsdefinitionen": "Einheitliche Definitionen für Mengen, Einheiten, Leistungen.",
+      "nebenleistungen": "Festgelegt, welche Leistungen ohne besondere Erwähnung mit auszuführen sind.",
+      "vergütung": "Grundlage für Abrechnung nach Einheitspreisen.",
+      "hinweis": "Wird immer zusammen mit den jeweiligen Fachnormen (DIN 183xx) verwendet."
+    }
+  }
+]
