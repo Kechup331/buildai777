@@ -1,0 +1,14 @@
+[
+  {
+    "verordnung": "Baustellenverordnung",
+    "titel": "Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen (BaustellV)",
+    "details": {
+      "anwendungsbereich": "Gilt für alle Baustellen mit mehr als einem Arbeitgeber oder gefährlichen Arbeiten.",
+      "sigeko": "Pflicht zur Bestellung eines Sicherheits- und Gesundheitsschutzkoordinators (SiGeKo).",
+      "vorankündigung": "Muss an die Behörde gesendet werden, wenn Dauer > 30 Arbeitstage ODER mehr als 20 Beschäftigte.",
+      "sigeplan": "Bei besonders gefährlichen Arbeiten Pflicht zur Erstellung eines SiGe-Plans.",
+      "koordinationspflicht": "Koordination der Gewerke zur Vermeidung von Unfallgefahren.",
+      "buildai_hinweis": "Sobald mehrere Gewerke beteiligt oder Gefahrarbeiten erkannt werden → Hinweis auf BaustellV & SiGeKo-Pflichten."
+    }
+  }
+]
