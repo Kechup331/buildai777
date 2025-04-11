@@ -1,0 +1,46 @@
+[
+  {
+    "norm": "DIN 18015",
+    "beschreibung": "Elektroinstallationen in Wohngebäuden – Planung, Steckdosen, Stromkreise.",
+    "details": {
+      "installationszonen": "Waagerecht 30 cm über Boden und unter Decke, senkrecht über Schaltern/Steckdosen.",
+      "mindestausstattung": "Je Raum definierte Anzahl Steckdosen und Stromkreise.",
+      "stromkreisaufteilung": "Licht- und Steckdosenkreise trennen.",
+      "absicherung": "Jeder Stromkreis mit eigenem LS-Schalter, FI-Pflicht für Steckdosenkreise.",
+      "hinweis": "Leerrohre oder Reserveleitungen für spätere Nachrüstung empfohlen."
+    }
+  },
+  {
+    "norm": "VDE 0100",
+    "beschreibung": "Errichten von Niederspannungsanlagen – Schutzmaßnahmen, Leitungsführung, Prüfungen.",
+    "details": {
+      "schutzmaßnahmen": "Basisschutz, Fehlerschutz und Zusatzschutz (z. B. FI-Schalter).",
+      "strombelastbarkeit": "Querschnitt je nach Leitungslänge und Absicherung wählen.",
+      "leiterkennzeichnung": "L = braun/schwarz, N = blau, PE = grün-gelb.",
+      "prüfpflicht": "Isolationsmessung, Schleifenimpedanzprüfung, FI-Test.",
+      "hinweis": "Norm ist in mehrere Teile untergliedert (z. B. -410, -540, -600)."
+    }
+  },
+  {
+    "norm": "VDE 0701–0702",
+    "beschreibung": "Prüfung ortsveränderlicher elektrischer Geräte – nach Instandsetzung und regelmäßig.",
+    "details": {
+      "prüfung": "Sichtprüfung, Schutzleiterprüfung, Isolationsmessung, Funktionsprüfung.",
+      "prüffristen": "Je nach Gerätetyp und Einsatzort (meist jährlich).",
+      "protokoll": "Messwerte und Beurteilung dokumentieren.",
+      "grenzwerte": "Schutzleiterwiderstand < 0,3 Ohm, Isolationswiderstand > 1 MOhm.",
+      "hinweis": "Erforderlich für Gewerbe, Büros, Baustellen etc."
+    }
+  },
+  {
+    "norm": "VDE 0833",
+    "beschreibung": "Gefahrenmeldeanlagen – Brand-, Einbruch-, Überfallmeldeanlagen.",
+    "details": {
+      "planung": "Anforderungen an Lage, Art und Anzahl der Melder.",
+      "stromversorgung": "Unterbrechungsfreie Stromversorgung (USV) notwendig.",
+      "meldebereiche": "In Zonen aufgeteilt – je nach Risikobewertung.",
+      "abschaltung": "Automatische Steuerung von Türen, Lüftungen im Brandfall.",
+      "hinweis": "Oft in Kombination mit DIN EN 54 (Brandmeldeanlagen) verwendet."
+    }
+  }
+]
