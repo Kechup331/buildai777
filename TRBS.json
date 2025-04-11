@@ -1,0 +1,42 @@
+[
+  {
+    "regel": "TRBS 1111",
+    "titel": "Gefährdungsbeurteilung",
+    "details": {
+      "pflicht": "Jeder Arbeitgeber muss für alle Arbeitsmittel eine Gefährdungsbeurteilung erstellen.",
+      "inhalt": "Ermittlung von Gefahrenquellen, Festlegung von Schutzmaßnahmen.",
+      "dokumentation": "Muss schriftlich dokumentiert und regelmäßig aktualisiert werden.",
+      "buildai_hinweis": "Bei Nutzung von Maschinen oder gefährlichen Stoffen → KI erinnert an Gefährdungsbeurteilung nach TRBS 1111."
+    }
+  },
+  {
+    "regel": "TRBS 1201",
+    "titel": "Prüfung von Arbeitsmitteln",
+    "details": {
+      "prüfpflicht": "Alle Arbeitsmittel müssen regelmäßig und fachkundig geprüft werden.",
+      "zeitpunkt": "Vor erster Inbetriebnahme und danach wiederkehrend (abhängig von Gefährdung).",
+      "prüfer": "Nur befähigte Personen oder Sachverständige.",
+      "buildai_hinweis": "Bei Gerätenutzung → KI fragt nach letzter Prüfung gemäß TRBS 1201."
+    }
+  },
+  {
+    "regel": "TRBS 2121 Teil 1",
+    "titel": "Gefährdung von Personen durch Absturz – allgemeine Anforderungen",
+    "details": {
+      "höhe": "Ab 1 m Absturzhöhe müssen Schutzmaßnahmen getroffen werden.",
+      "schutzformen": "Kollektivschutz (z. B. Geländer) hat Vorrang vor PSA.",
+      "ausnahme": "PSA nur bei fehlender technischer Schutzmöglichkeit zulässig.",
+      "buildai_hinweis": "Bei Höhenarbeit → KI priorisiert Kollektivschutz nach TRBS 2121 Teil 1."
+    }
+  },
+  {
+    "regel": "TRBS 2131",
+    "titel": "Explosionsschutzdokument",
+    "details": {
+      "pflicht": "Muss erstellt werden, wenn explosionsfähige Atmosphäre auftreten kann.",
+      "inhalt": "Zoneneinteilung, Zündquellen, Schutzmaßnahmen.",
+      "aktualisierung": "Bei Änderung von Prozessen oder Arbeitsstoffen verpflichtend.",
+      "buildai_hinweis": "Bei Gas, Dampf, Lösemitteln → KI fragt nach Explosionsschutzdokument nach TRBS 2131."
+    }
+  }
+]
