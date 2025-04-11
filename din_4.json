@@ -1,0 +1,46 @@
+[
+  {
+    "norm": "DIN 18338",
+    "beschreibung": "Dachdeckungsarbeiten – mit Dachziegeln, Schiefer, Faserzement, Metall.",
+    "details": {
+      "sparrenabstand": "Muss zur Eindeckung und Plattengröße passen (z. B. < 90 cm bei Ziegel).",
+      "regeldachneigung": "Z. B. 22° bei Tonziegeln, abhängig von System & Windsog.",
+      "unterdeckungen": "Unterspannbahnen oder Schalung mit Bitumen für zusätzliche Dichtheit.",
+      "befestigung": "Sturmsichere Befestigung nach Windsogberechnung erforderlich.",
+      "hinweis": "Materialgerechte Verarbeitung für jedes Dachsystem entscheidend."
+    }
+  },
+  {
+    "norm": "DIN 18339",
+    "beschreibung": "Klempnerarbeiten – Blechverarbeitung an Dach und Fassade (Zink, Kupfer, Aluminium).",
+    "details": {
+      "blechdicke": "Je nach Werkstoff und Bauteil (z. B. ≥ 0,6 mm bei Zink).",
+      "dehnungsausgleich": "Gleit- oder Längsfalzverbindungen zur Kompensation von Temperaturschwankungen.",
+      "verbindungen": "Falzen, Löten, Nieten – je nach Blechmaterial zulässig.",
+      "regenwasserableitung": "Rinnenquerschnitt nach Dachfläche bemessen.",
+      "hinweis": "DIN EN 612 ergänzt Maße und Anforderungen für Rinnen & Fallrohre."
+    }
+  },
+  {
+    "norm": "DIN 18531–18535",
+    "beschreibung": "Abdichtung von Flachdächern, Balkonen, Nassräumen und erdberührten Bauteilen.",
+    "details": {
+      "materialien": "Bitumenbahnen, Kunststoffbahnen, Flüssigabdichtungen (PU, PMMA).",
+      "lagensystem": "1- oder 2-lagig je nach Beanspruchungsklasse (z. B. W2-E bei Druckwasser).",
+      "anschlüsse": "Besonders sorgfältig bei Wand-, Tür- und Gullyanschlüssen ausführen.",
+      "gefälle": "Mind. 2 % Gefälle bei Flachdächern, sonst Sonderlösungen nötig.",
+      "hinweis": "DIN 18531 = Flachdach, 18533 = erdberührt, 18534 = Innenräume (Bad), 18535 = Becken."
+    }
+  },
+  {
+    "norm": "Fachregeln des Dachdeckerhandwerks",
+    "beschreibung": "Ergänzende Praxisregeln – z. B. Schneelast, Windsog, Detailschnittlösungen.",
+    "details": {
+      "pflicht": "Verbindlich für Innungsbetriebe, gelten als allgemein anerkannte Regeln der Technik.",
+      "einsatz": "Vor allem bei Detailausbildungen und Sonderkonstruktionen.",
+      "schneelastzonen": "Auswirkungen auf Sparren, Eindeckung, Unterkonstruktion.",
+      "windzonen": "Vorgaben zur Befestigung und Windsogsicherung.",
+      "hinweis": "Regeln oft strenger als DIN – bei Abweichung muss dokumentiert begründet werden."
+    }
+  }
+]
