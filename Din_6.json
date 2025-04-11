@@ -1,0 +1,35 @@
+[
+  {
+    "norm": "DIN 18055",
+    "beschreibung": "Fenster und Fenstertüren – Anforderungen an Maße, Funktion, Einbau.",
+    "details": {
+      "einbauluft": "Toleranzen von ca. 10–15 mm seitlich und oben zur Aufnahme von Montageschaum oder Kompriband.",
+      "anschlussfuge": "Muss luftdicht innen, wind- und schlagregendicht außen ausgeführt werden.",
+      "funktionen": "Öffnungsarten, Lüftung, Wärmeschutz, Sicherheit.",
+      "werkstoffe": "Kunststoff, Holz, Aluminium oder Kombinationen.",
+      "hinweis": "Wird oft in Verbindung mit EN 14351-1 (CE-Kennzeichnung) angewendet."
+    }
+  },
+  {
+    "norm": "DIN 18101",
+    "beschreibung": "Innentüren – Maße, Anforderungen, Einbaubedingungen.",
+    "details": {
+      "türblattmaße": "Standardmaße z. B. 610/735/860/985 mm Breite × 1985 mm Höhe.",
+      "zargen": "Müssen zum Türblattmaß passen, mit Toleranz für Maueröffnung.",
+      "anschläge": "Links- oder Rechtsanschlag nach DIN-Richtung definiert.",
+      "luftspalt": "Mind. 5 mm unter Türblatt zur Belüftung bei Nassräumen.",
+      "hinweis": "Erleichtert Planung und Bestellung kompatibler Tür-/Zargensysteme."
+    }
+  },
+  {
+    "norm": "DIN EN 1279",
+    "beschreibung": "Mehrscheiben-Isolierglas – Anforderungen an Wärmeschutz, Dichtigkeit, Verarbeitung.",
+    "details": {
+      "aufbau": "Mindestens zwei Scheiben mit Randverbund und Gasfüllung (meist Argon).",
+      "wärmeschutz": "U-Wert ≤ 1,1 W/m²K bei modernen Fenstern üblich.",
+      "dichtheit": "Doppelte Abdichtung (butyl + polysulfid/silikon) gegen Feuchte und Gasaustritt.",
+      "prüfungen": "Feuchteaufnahme, Alterung, UV-Beständigkeit.",
+      "hinweis": "CE-Kennzeichnung nach EN 1279 für Isolierglas verpflichtend im Neubau."
+    }
+  }
+]
