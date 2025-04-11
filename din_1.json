@@ -1,0 +1,67 @@
+[
+  {
+    "norm": "DIN 18300",
+    "beschreibung": "Erdarbeiten – Aushub, Verfüllung, Bodenklassen.",
+    "details": {
+      "bodenklassen": "Boden wird in Klassen 1–7 eingeteilt (z. B. Sand, Lehm, Fels).",
+      "aushubtiefe": "Definiert je nach Bauvorhaben – Fundament, Leitung usw.",
+      "verdichtung": "Verdichtungsgrad muss bestimmten Werten entsprechen (z. B. Proctor).",
+      "hinweis": "Unterscheidung zwischen gelösten und nicht gelösten Böden relevant für Preisbildung."
+    }
+  },
+  {
+    "norm": "DIN 18318",
+    "beschreibung": "Pflasterdecken, Plattenbeläge und Einfassungen – Außenanlagen, Trag- und Bettungsschichten.",
+    "details": {
+      "verlegeart": "Regelmäßig im Reihen-, Fischgrät- oder Segmentbogenverband.",
+      "bettung": "Mind. 3–5 cm Splittbettung empfohlen.",
+      "fugen": "Fugenbreite 3–5 mm, mit Brechsand oder Fugensand füllen.",
+      "unterbau": "Tragschicht z. B. Schotter 15–30 cm je nach Verkehrsbelastung.",
+      "hinweis": "Gefälle von mind. 2 % für Wasserabfluss einplanen."
+    }
+  },
+  {
+    "norm": "DIN 18336",
+    "beschreibung": "Abdichtungsarbeiten – gegen Bodenfeuchte, nichtdrückendes und drückendes Wasser.",
+    "details": {
+      "abdichtungsarten": "Bituminöse Abdichtung, Kunststoffbahnen, Flüssigkunststoffe.",
+      "untergrund": "Muss sauber, tragfähig und trocken sein.",
+      "lagenanzahl": "2-lagig bei drückendem Wasser, 1-lagig bei Bodenfeuchte.",
+      "anschlüsse": "Besonderes Augenmerk auf Tür- und Wandanschlüsse.",
+      "hinweis": "DIN 18531–18535 ergänzen oder ersetzen teilweise DIN 18336."
+    }
+  },
+  {
+    "norm": "DIN 18345",
+    "beschreibung": "Wärmedämm-Verbundsysteme (WDVS) – Dämmung von Außenwänden.",
+    "details": {
+      "dämmstoffe": "EPS, Mineralwolle, PUR – abhängig vom Brand- und Wärmeschutz.",
+      "befestigung": "Kleben oder Dübeln, mind. 5–8 Dübel/m² je nach Windlastzone.",
+      "untergrund": "Muss tragfähig und eben sein, ggf. Putz entfernen oder grundieren.",
+      "putzsystem": "Oberputz + Armierungsgewebe + Unterputz.",
+      "hinweis": "Besondere Anforderungen an Stoßstellen, Fensterlaibungen und Sockel."
+    }
+  },
+  {
+    "norm": "DIN 18352",
+    "beschreibung": "Fliesenarbeiten – Untergrund, Kleber, Fugen.",
+    "details": {
+      "untergrundanforderung": "Trocken, tragfähig, rissfrei und eben.",
+      "kleber": "Zementkleber C2 für großformatige Fliesen.",
+      "fugenbreite": "mind. 2 mm bei Wandfliesen, 3 mm bei Bodenfliesen.",
+      "verlegeart": "Reihenverband empfohlen.",
+      "hinweis": "Nassbereiche benötigen eine Verbundabdichtung nach DIN 18534."
+    }
+  },
+  {
+    "norm": "DIN 18363",
+    "beschreibung": "Maler- und Lackierarbeiten – Untergrund, Anstrichsysteme, Schichtdicke.",
+    "details": {
+      "untergrund": "Muss sauber, trocken, fettfrei und tragfähig sein.",
+      "vorbehandlung": "Lose Teile entfernen, evtl. grundieren oder spachteln.",
+      "anstrichsystem": "Grundierung + Zwischenanstrich + Deckanstrich.",
+      "schichtdicke": "Je nach System: mind. 100 µm.",
+      "hinweis": "Je nach Untergrund unterschiedliche Farbtypen verwenden (z. B. Dispersionsfarbe, Silikatfarbe)."
+    }
+  }
+]
