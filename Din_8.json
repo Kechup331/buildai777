@@ -1,0 +1,35 @@
+[
+  {
+    "norm": "DIN 4102",
+    "beschreibung": "Brandschutzklassifikation von Baustoffen und Bauteilen.",
+    "details": {
+      "baustoffklassen": "A1 (nicht brennbar), B1 (schwer entflammbar), B2 (normal entflammbar).",
+      "prüfverfahren": "Entzündbarkeit, Flammenausbreitung, Rauchentwicklung.",
+      "kennzeichnung": "Materialien müssen mit zugehöriger Klassifizierung geliefert werden.",
+      "bauteilverhalten": "Klassifiziert z. B. in F30, F60, F90 (Feuerwiderstand in Minuten).",
+      "hinweis": "Wird schrittweise durch DIN EN 13501 ersetzt, bleibt aber in Deutschland relevant."
+    }
+  },
+  {
+    "norm": "DIN EN 13501",
+    "beschreibung": "Europäische Klassifizierung für das Brandverhalten von Bauprodukten.",
+    "details": {
+      "klassen": "A1, A2, B, C, D, E, F (absteigend nach Brandschutzwirkung).",
+      "rauchentwicklung": "s1 = gering, s2 = mittel, s3 = stark.",
+      "brennendes abtropfen": "d0 = kein Tropfen, d1/d2 = zunehmende Tropfgefahr.",
+      "einsatz": "Pflicht für CE-gekennzeichnete Baustoffe in Europa.",
+      "hinweis": "Ergänzt oder ersetzt nationale Regelungen wie DIN 4102."
+    }
+  },
+  {
+    "norm": "DIN EN 1990–1999 (Eurocodes)",
+    "beschreibung": "Tragwerksplanung für Beton, Stahl, Holz, Mauerwerk etc. – europäische Statiknormen.",
+    "details": {
+      "teilbereiche": "EN 1990 = Grundlagen, 1991 = Einwirkungen (z. B. Schnee, Wind), 1992 = Betonbau, 1993 = Stahlbau etc.",
+      "sicherheitskonzept": "Teilsicherheitsbeiwerte, Grenzzustände der Tragfähigkeit und Gebrauchstauglichkeit.",
+      "nationaler anhang": "Jedes Land hat ergänzende Regelungen für Eurocodes.",
+      "bemessung": "Lastannahmen + Materialkennwerte → Querschnittsnachweis.",
+      "hinweis": "Verbindlich bei Neubauten, öffentlichem Bau und CE-Produkten."
+    }
+  }
+]
